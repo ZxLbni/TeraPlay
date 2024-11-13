@@ -1,0 +1,27 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="179" height="20" role="img" aria-label="visitors: 34408 / 2.909.702">
+      <title>visitors: 34408 / 2.909.702</title>
+      
+      
+
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="gradient" x2="0" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".7"/><stop offset=".1" stop-color="#aaa" stop-opacity=".1"/><stop offset=".9" stop-color="#000" stop-opacity=".3"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></linearGradient>
+
+      
+      
+      <clipPath id="roundedClip"><rect width="179" height="20" rx="4" fill="#fff"/></clipPath>
+
+      <g clip-path="url(#roundedClip)" >
+        <rect width="47" height="20" fill="#555" />
+        <rect x="47" width="132" height="20" fill="#263759" />
+
+        <rect xmlns="http://www.w3.org/2000/svg" width="179" height="20" fill="url(#gradient)"/>
+      </g>
+      <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="235" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="330">visitors</text>
+        <text fill="#fff" x="235" y="140" transform="scale(.1)" textLength="330">visitors</text>
+        <text aria-hidden="true" x="1130" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1180">34408 / 2.909.702</text>
+        <text fill="#fff" x="1130" y="140" transform="scale(.1)" textLength="1180" >34408 / 2.909.702</text>
+      </g>
+      
+    </svg>
+    
